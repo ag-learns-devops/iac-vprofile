@@ -10,4 +10,4 @@ variable "clusterName" {
   default     = "vprofile-eks"
 }
 
-# Testing, mic testing, Hello! how are?
+# Testing, mic testing, Hello! how are you?
